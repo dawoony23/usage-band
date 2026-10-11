@@ -1,0 +1,12 @@
+{
+  "name": "usage-band",
+  "owner": {
+    "name": "Mint (dawoony23)"
+  },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./"
+    }
+  ]
+}

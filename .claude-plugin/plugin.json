@@ -1,0 +1,9 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "입력창 위에 5시간 세션·주간 사용량과 재설정까지 남은 시간을 항상 표시",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Mint (dawoony23)"
+  }
+}
